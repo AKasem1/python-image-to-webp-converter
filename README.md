@@ -43,7 +43,9 @@ The script will present you with an interactive menu:
 
 ```
 ==================================================
+
 Image to WebP Converter
+
 ==================================================
 
 Conversion options:
